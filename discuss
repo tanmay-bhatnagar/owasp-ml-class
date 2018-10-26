@@ -1,0 +1,21 @@
+Linear Regression
+Parameter importance
+Gradient Descent 
+Momentum
+Categorical Crossentropy
+
+Multiclass Classification
+Softmax classifier
+
+MNIST dataset
+discuss pixel importance using 3x3 grid
+image flattening
+image normalisation
+
+
+Neural Network
+	representation
+	simple neuron
+	multiple neuron
+	vectorization
+
