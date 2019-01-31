@@ -1,0 +1,15 @@
+Useful Links
+https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c
+http://colah.github.io/posts/2014-07-Understanding-Convolutions/
+https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
+https://www.quora.com/What-are-some-of-the-limitations-or-drawbacks-of-Convolutional-Neural-Networks
+https://www.saama.com/blog/capsule-networks-limitations-cnns/
+
+Things discussed - 
+Convolution operation (3D and 2D)
+Pooling
+Convolutional Neural Networks
+Use of CNNs (primarily related to image data)
+Advantages of CNNs
+Drawbacks of CNNs
+Training a CNN in keras
